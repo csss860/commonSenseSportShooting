@@ -5,16 +5,16 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'A common sense solution...',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg')
-      .default,
+    Svg: require('@site/static/img/mountainClouds.svg').default,
     description: (
-      <>Are you tired of your neighborhood sounding like a war-zone?</>
+      <>
+        Are you tired of your neighborhood sounding like a war-zone?
+      </>
     ),
   },
   {
     title: 'Let your representatives know that enough is enough...',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg')
-      .default,
+    Svg: require('@site/static/img/mountainSun.svg').default,
     description: (
       <>
         With more and more of our neighbors taking to the local
@@ -25,8 +25,7 @@ const FeatureList = [
   },
   {
     title: 'The time to act is now!',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg')
-      .default,
+    Svg: require('@site/static/img/mountainTrees.svg').default,
     description: (
       <>
         Homes are being hit by errant bullets, people are living in
