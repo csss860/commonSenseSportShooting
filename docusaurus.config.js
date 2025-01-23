@@ -112,8 +112,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Blue Sky',
-                href: 'https://bsky.app/profile/everytown.bsky.social',
+                label: 'News',
+                href: 'https://eedition-journalinquirer.hearstmediact.com/infinity/article_popover_share.aspx?guid=d54eabd5-4433-489a-aaf9-7e47a3f98b70&share=true',
               },
             ],
           },
