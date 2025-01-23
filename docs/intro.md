@@ -8,8 +8,9 @@ sidebar_position: 1
 
 (a) This act shall be known and may be cited as the "Common Sense Sport Shooting Act."
 (b) The purpose of this act is to promote public safety and responsible firearm usage by
-regulating sport shooting activities in designated areas without constraining or regulating the act
-of hunting in the State of Connecticut. *(see Appendix B(a))*
+regulating sport shooting activities that take place in backyards or private property.
+(c) This act will in no way constraining or regulate the act
+of hunting in the State of Connecticut or sport shooting at public ranges. _(see Appendix B(a))_
 
 ## Section 2. Definitions
 
@@ -35,9 +36,11 @@ must be clearly marked as required under Section 4(a)(4) of this act.
 (3) Within a one-mile radius of any nature preserve that possesses public accessible trails,
 paths, or roads.
 (4) Within one thousand (1000) feet of wetlands _(see Appendix B(b))_
-Section 4. Sport Shooting Range Requirements
-(a) All sport shooting activities must take place on a designated shooting range that meets the
-following requirements (see Appendix B(c)):
+
+## Section 4. Sport Shooting Range Requirements
+
+All sport shooting activities must take place on a designated shooting range that meets the
+following requirements _(see Appendix B(c))_:
 (1) The range shall be located on a property with a minimum area of thirty five (35) acres.
 (2) The range must include a properly constructed backstop in accordance with the standards
 set forth in the appendix to this act.
@@ -90,6 +93,8 @@ or application _(see Appendix B(f,g,h))_.
 ## Section 10. Municipal Preemption
 
 (a) Municipalities may enact regulations that exceed the standards and requirements set forth in
-this act. (b) Municipalities shall not enact regulations that lower or compromise the thresholds
-established by this act. (c) In cases where municipal regulations exceed the requirements of this
+this act.
+(b) Municipalities shall not enact regulations that lower or compromise the thresholds
+established by this act.
+(c) In cases where municipal regulations exceed the requirements of this
 act, the municipal regulations shall take precedence within the jurisdiction of the municipality
