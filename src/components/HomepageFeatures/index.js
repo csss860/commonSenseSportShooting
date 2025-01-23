@@ -17,9 +17,9 @@ const FeatureList = [
     Svg: require('@site/static/img/mountainSun.svg').default,
     description: (
       <>
-        With more and more of our neighbors taking to the local
-        forests to shoot their guns conflicts of interest are arising
-        and safety is not being considered at all...
+        It does not make any sense, that an activity as dangerous as
+        target shooting is allowed with zero safety protocols or even
+        a permitting process...
       </>
     ),
   },
@@ -28,9 +28,9 @@ const FeatureList = [
     Svg: require('@site/static/img/mountainTrees.svg').default,
     description: (
       <>
-        Homes are being hit by errant bullets, people are living in
-        fear in their neighborhoods, and nothing seems to be getting
-        done to solve this problem. Until now...
+        The aim of this bill is to engender some common sense for
+        those who believe their second amendment rights supersede
+        their neighbors rights to life and the pursuit of happiness
       </>
     ),
   },
