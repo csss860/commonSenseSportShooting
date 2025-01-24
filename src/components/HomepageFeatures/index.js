@@ -17,9 +17,9 @@ const FeatureList = [
     Svg: require('@site/static/img/mountainSun.svg').default,
     description: (
       <>
-        It does not make any sense, that an activity as dangerous as
-        target shooting is allowed with zero safety protocols or even
-        a permitting process...
+        Does it make sense that an activity as dangerous as target
+        shooting is allowed in neighborhoods and close to schools with
+        zero safety protocols or even a permitting process?
       </>
     ),
   },
@@ -28,9 +28,11 @@ const FeatureList = [
     Svg: require('@site/static/img/mountainTrees.svg').default,
     description: (
       <>
-        The aim of this bill is to engender some common sense for
-        those who believe their second amendment rights supersede
-        their neighbors rights to life and the pursuit of happiness
+        The aim of this bill, and the growing coalition of residents
+        who are fed up with the dangerous and calloused behavior of
+        their neighbors, is to model common sense for those who
+        believe their second amendment rights supersede their
+        neighbors rights to life and the pursuit of happiness.
       </>
     ),
   },
