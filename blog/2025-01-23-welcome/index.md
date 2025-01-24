@@ -1,6 +1,6 @@
 ---
 slug: letter of advocacy
-title: Welcome
+title: Letter of Advocacy
 authors: [yangshun]
 tags: [letter of advocacy, grassroots activism]
 ---
