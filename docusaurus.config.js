@@ -89,11 +89,6 @@ const config = {
             label: 'The Bill',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
@@ -114,6 +109,10 @@ const config = {
               {
                 label: 'Blue Sky',
                 href: 'https://bsky.app/profile/neighbors4safety.bsky.social',
+              },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@Neighbors4Safety',
               },
             ],
           },
