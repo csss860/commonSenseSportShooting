@@ -12,7 +12,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'Common Sense Sport Shooting',
   tagline: 'Connecticut',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/faviconJustice.ico',
 
   // Set the production url of your site here
   url: 'https://common-sense-sport-shooting.vercel.app/',
@@ -23,7 +23,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'csss860', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'commonSenseSportShooting', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
