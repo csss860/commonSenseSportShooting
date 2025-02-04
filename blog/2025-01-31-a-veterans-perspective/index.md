@@ -17,7 +17,7 @@ I am a veteran who did two tours overseas in the infantry. When I moved to Conne
 - Several of our neighbors were shooting fully automatic weapons.
 - The noise from the gun fire was routinely up to eighty (80) decibels inside our home.
 
-With little to no guidance from the state the laws regarding this hobby are all over the map. One municipality requires a 250' distance, another 500', while yet another does not enforce any distance. The one law that could be applied to this issue is aimed at hunters. A solitary hunters likely won't shoot 50,000+ rounds in a weekend while trying to harvest a deer. Target shooters do though...
+With little to no guidance from the state the laws regarding this hobby are all over the map. One municipality requires a 250' distance from a home, another 500' from any structure, while yet another does not enforce any distance. The one law that could be applied to this issue is aimed at hunters. A solitary hunters likely won't shoot 50,000+ rounds in a weekend while trying to harvest a deer though. The same cannot be said for target shooters though...
 
 That is why this bill has been drafted. Taking input from veterans, gun reform activists, medical personnel - your neighbors this idea for a bill https://common-sense-sport-shooting.vercel.app/docs/intro came into existence. It is in response to the madness that is happening all over Connecticut.
 
