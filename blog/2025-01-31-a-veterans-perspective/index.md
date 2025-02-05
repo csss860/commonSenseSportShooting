@@ -7,6 +7,8 @@ tags: [grassroots activism, sport shooting]
 
 A letter of advocacy that was sent to legislators in Connecticut pleading for a solution to the epidemic of unregulated shooting ranges in our state:
 
+<!-- truncate -->
+
 I am a veteran who did two tours overseas in the infantry. When I moved to Connecticut for my wife's job I was horrified to discover the lack of regulations surrounding target shooting in residential neighborhoods and even in VERY close proximity to schools.
 
 - In our semi-rural neighborhood with an average lot size of 3.5 acres there were fourteen shooting ranges.

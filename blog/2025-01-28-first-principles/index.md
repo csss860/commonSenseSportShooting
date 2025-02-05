@@ -5,7 +5,7 @@ authors: [yangshun]
 tags: [grassroots activism]
 ---
 
-I recently read this compelling article on Everytown's Safety In Numbers blog [David Riedman: Using “First Principles” Thinking to Decrease School Shootings by 10x](https://everytownresearch.org/david-riedman-using-first-principles-thinking-to-decrease-school-shootings-by-10x/) It posits that to find a solution to the gun violence epidemic raging around our country we should implement the first principles idea popularized by AirBnB. The idea goes like this:
+I recently read this compelling article on Everytown's Safety In Numbers blog [David Riedman: Using “First Principles” Thinking to Decrease School Shootings by 10x](https://everytownresearch.org/david-riedman-using-first-principles-thinking-to-decrease-school-shootings-by-10x/) <!-- truncate --> It posits that to find a solution to the gun violence epidemic raging around our country we should implement the first principles idea popularized by AirBnB. The idea goes like this:
 
 - Break down problems into their simplest elements.
 - Identify current assumptions.

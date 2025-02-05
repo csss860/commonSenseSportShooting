@@ -7,6 +7,8 @@ tags: [letter of advocacy, grassroots activism]
 
 _Here is an early letter of advocacy that was sent to my local Senator imploring them to act on our behalf to address our growing concerns about neighbors target shooting in very close proximity to our home and property._
 
+<!-- truncate -->
+
 Dear Senator,
 
 I am contacting you today to request legislation be passed regulating the discharging of firearms while in the act of target shooting. Currently, there are no regulation, local or state, that pertains to target shooting - specifically when conducted on private property. As a result, many unsafe and dangerous situations have arisen. Not only am I very concerned for the safety of my family, but so are many of my neighbors.
