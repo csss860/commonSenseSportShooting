@@ -6,7 +6,7 @@ sidebar_position: 3
 
 (1) [Firearm Use on Private Land CT](https://common-sense-sport-shooting.s3.us-east-1.amazonaws.com/2022-R-0222.pdf)\
 (2) [Best Management Practices for Lead at Outdoor Shooting Ranges](https://common-sense-sport-shooting.s3.us-east-1.amazonaws.com/bestManagmentPracticesForLeadOutdoorShootingRanges.pdf)\
-(3) [Range Design Criteria](https://common-sense-sport-shooting.s3.us-east-1.amazonaws.com/Range_Design_Criteria.pdf%5C)\
+(3) [Range Design Criteria](https://drive.google.com/file/d/1oSCKnqzYTiP87r9pwcg066Eca8GxOLu9/view?usp=sharing)\
 (4) [Town Of Thompson CT](https://common-sense-sport-shooting.s3.us-east-1.amazonaws.com/townOfThompson.pdf)\
 (5) [The Day Article New London CT](https://common-sense-sport-shooting.s3.us-east-1.amazonaws.com/How+close+is+too+close_+Montville+residents+compl%E2%80%A6.pdf)\
 (6) [PA Supreme Court Ruling](https://common-sense-sport-shooting.s3.us-east-1.amazonaws.com/PA+Supreme+Court+sides+with+Stroud+Township+over+ban+of+backyard+gun+range.pdf)\

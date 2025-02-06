@@ -14,7 +14,7 @@ I recently read this compelling article on Everytown's Safety In Numbers blog [D
 
 Sadly much of the conversations around guns and gun violence in this country is the same status quo. One way to challenge the status quo is to question every assumption we as a society, culture, and country have about guns. One of those assumptions is that if you live in the countryside or rural areas gun fire is just a daily occurrence. However, if you had this happening in your backyard would you be okay with the status quo?
 
-https://youtu.be/BpayTVDnNyQ?si=D8OpCwn9FwDDJFpl
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BpayTVDnNyQ?si=asFiQBRnKwrlDhCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This is **not** people plinking cans with their grandpappy's .22! These are people going full cyclic with military grade weapons a few feet from homes, schools, public roads, and hiking trails.
 
@@ -26,7 +26,7 @@ The time is now to make it clear that target shooting is a non-trivial pass time
 
 One step that **needs** to be taken to make America safe again is for Connecticut to step up and set the example for all New Englanders by regulating the dangerous activity of backyard shooting ranges. Our neighborhoods sounding like war zones does not have to be a [fact of life](https://www.everytown.org/press/everytown-students-demand-action-respond-to-j-d-vance-calling-school-shootings-a-fact-of-life/). We don't have to live in a country where guns are the [number one killer of our children](https://everytownresearch.org/graph/firearms-are-the-leading-cause-of-death-for-american-children-and-teens/). We don't have to live in neighborhoods that sound like a war zone.
 
-https://youtu.be/BpayTVDnNyQ?si=D8OpCwn9FwDDJFpl
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BpayTVDnNyQ?si=asFiQBRnKwrlDhCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 To address these very real concerns everything about guns and our culture as a country of gun worship should be on the table for discussion.
 
