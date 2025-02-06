@@ -1,14 +1,14 @@
 Sport Shooting:
-  label: Sport Shooting
-  permalink: /sport-shooting
-  description: Content related to the sport shooting tag
+  label: 'Sport Shooting'
+  permalink: '/sport-shooting'
+  description: 'Content related to the sport shooting tag'
 
 Grassroots Activism:
-  label: Grassroots Activism
-  permalink: /grassroots-activism
-  description: Content related to the grassroots activism tag
+  label: 'Grassroots Activism'
+  permalink: '/grassroots-activism'
+  description: 'Content related to the grassroots activism tag'
 
 Letter of Advocacy:
-  label: Letter of Advocacy
-  permalink: /letter-of-advocacy
-  description: Content related to the letter of advocacy tag
+  label: 'Letter of Advocacy'
+  permalink: '/letter-of-advocacy'
+  description: 'Content related to the letter of advocacy tag'
