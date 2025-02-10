@@ -9,4 +9,8 @@ No state statute or regulation addresses the use of high-powered firearms on pri
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G0Bj7z9MS4I?si=bhd0cF0aYG-aAcUn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Would you want to live in a war zone like this? Anyone in nearly the entire state of Connecticut can do this! With no minimum size requirement shooters can just load, point, and shoot. There is no need to have a properly constructed backstop; nor are there any laws that criminalize the shooter for sending their rounds onto abutting properties or subjecting their neighbors to hours of this kind of noise. This madness has to stop before someone is hurt or killed.
+Would you want to live in a war zone like this? Anyone in the state of Connecticut can do this! With no minimum lot size requirement shooters can just load, point, and shoot. No matter how close your neighbors are, a nature preserves with publicly accessible hiking trails, or even if there is a school nearby - it doesn't matter just spray and pray you don't kill or injure anyone.
+
+There is no need to have a properly constructed backstop; nor are there any laws that criminalize the shooter for sending their rounds onto abutting properties or subjecting their neighbors to hours of this kind of noise.
+
+This madness has to stop before someone is hurt or killed.
